@@ -1,4 +1,4 @@
-## # ESGI LEARNING - IW 
+# ESGI LEARNING - IW 
 👋
 
 **Here are some ideas to get you started:**
